@@ -1,12 +1,16 @@
 <h1>Isi Repositori</h1>
-Pada Repositori ini kita akan mengeksplorasi data riwayat Listening History untuk memahami lagu favorit, artis favorit, dan memprediksi tren aktivitas musik di masa depan (seperti Spotify Wrapped)
+Pada Repositori ini kita akan mengeksplorasi data Listening History pengguna guna mengungkap pola konsumsi musik secara personal. Melalui pendekatan ini, tidak hanya dilakukan perhitungan terhadap lagu dan artis favorit, tetapi juga berusaha memprediksi tren aktivitas mendengarkan musik di masa depan.
+<br>
+<br>
 
 <h1>Hasil Ekplorasi</h1>
-Identifikasi 10 artis dan lagu teratas berdasarkan frekuensi pemutaran.
+Pemetaan Preferensi Lagu: Mengidentifikasi secara akurat 10 artis dan lagu teratas berdasarkan frekuensi pemutaran. Analisis ini memberikan gambaran jelas mengenai siapa musisi yang paling mendominasi playlist dan lagu mana yang menjadi "lagu kebangsaan" pengguna dalam periode tertentu.
 <br>
-Identifikasi artis-artis yang lagunya paling sering dilewati.
 <br>
-Prediksi durasi mendengarkan musik 30 hari ke depan berdasarkan pola aktivitas setahun kebelakang.
+Analisis Perilaku Skip Lagu: Menggali aspek yang sering terlewatkan dengan mengidentifikasi artis-artis yang lagunya paling sering dilewati (skipped). Data ini sangat krusial untuk memahami adanya pergeseran selera atau ketidaksesuaian antara rekomendasi algoritma dengan keinginan pengguna yang sebenarnya.
+<br>
+<br>
+Proyeksi Tren Masa Depan: Menggunakan data aktivitas satu tahun ke belakang untuk memprediksi durasi mendengarkan musik selama 30 hari ke depan. Dengan menerapkan model time-series, proyek ini mampu memberikan estimasi keterlibatan pengguna (engagement) dan tren konsumsi musik di masa mendatang.
 
 <h1>Visualisasi</h1>
 <br>
